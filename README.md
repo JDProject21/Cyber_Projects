@@ -1,0 +1,1 @@
+This Project is for me and my colleagues to collaborate on creating a key logging program so that we can gain better understnding of more advanced programming skills and also analyzing how malicious programs work. These scripts are to be ran in controlled lab environments and are for educational purposes.
